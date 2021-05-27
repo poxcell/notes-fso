@@ -41,6 +41,11 @@ let notes = [{
   content: "fith note",
   date: "2019-05-30T19:20:15.298Z",
   important: true
+}, {
+  id: 6,
+  content: "sixth note",
+  date: "2019-05-30T19:20:15.298Z",
+  important: true
 }]
 
 const generateId = () => {
